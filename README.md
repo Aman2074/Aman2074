@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aman2074
 - 👀 I’m interested in exploring new technology.
 - 🌱 I’m currently learning mern stack.
-- 💞️ I’m looking to collaborate on Google summer code.
 - 📫 How to reach me - mail me on (ay89678967@gmail.com)
 
 <!---
